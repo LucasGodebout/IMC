@@ -8,7 +8,7 @@ Ce projet est un **calculateur d’IMC (Indice de Masse Corporelle)** en ligne. 
 
 ## 📸 Aperçu
 
-![Aperçu Calculateur IMC](https://lucas-godebout.mds-angers.yt/imc/assets/img/preview.jpg) <!-- Remplacer par une capture réelle si disponible -->
+![Aperçu Calculateur IMC](imc.png) <!-- Remplacer par une capture réelle si disponible -->
 
 ## 🎯 Objectifs du projet
 
